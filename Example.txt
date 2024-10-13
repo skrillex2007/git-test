@@ -5,4 +5,4 @@ Example
 
 Изменили файл в ветке develop
 
-Изменили файл Example localy
+Изменили файл из интерфейса gitHub
